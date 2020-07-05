@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="tafadzwa.nutritionist">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logopn"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logopn"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name=".login.SplashScreenActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".login.LoginScreenActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity
+            android:name=".login.RegisterActivity"
+            android:parentActivityName=".login.LoginScreenActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name=".DietPlannerActivity"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"/>
+
+
+        <activity
+            android:name=".DietForumActivity"
+            android:parentActivityName=".DietPlannerActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"/>
+
+        <activity
+            android:name=".login.PasswordRecoveryActivity"
+            android:parentActivityName=".login.LoginScreenActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name=".DietEditActivity"
+            android:parentActivityName=".DietPlannerActivity"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".CatalogueForumActivity"
+            android:parentActivityName=".CatalogueActivity"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".CatalogueActivity"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".WeightEditActivity"
+            android:parentActivityName=".UserDetailsActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name=".UserDetailsActivity"
+            android:screenOrientation="portrait"
+            android:parentActivityName=".MainActivity"/>
+
+        <activity
+            android:name=".TipsActivity"
+            android:screenOrientation="portrait"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"/>
+
+        <activity android:name=".AboutAppActivity"
+            android:screenOrientation="portrait"
+            android:parentActivityName=".MainActivity"/>
+
+        <activity
+            android:name=".DietEducationActivity"
+            android:label="@string/title_activity_diet_education"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+
+        <activity
+            android:name=".utils.SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:screenOrientation="portrait"
+            android:parentActivityName=".MainActivity" />
+
+        <activity android:name=".HeightEditActivity"
+            android:screenOrientation="portrait"
+            android:parentActivityName=".UserDetailsActivity"/>
+
+        <activity android:name=".NotificationsActivity"
+            android:screenOrientation="portrait"
+            android:parentActivityName=".MainActivity"/>
+
+        <activity android:name=".ReminderActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:parentActivityName=".MainActivity"/>
+
+        <receiver android:name=".utils.NotificationPublisher" />
+
+    </application>
+
+</manifest>

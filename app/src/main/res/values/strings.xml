@@ -1,0 +1,245 @@
+<resources>
+    <string name="app_name">Personal Nutritionist</string>
+    <string name="title_activity_diet_planner">Nutritionist</string>
+    <string name="title_activity_diet_forum">Nutritionist</string>
+    <string name="title_activity_diet_edit">Nutritionist</string>
+    <string name="title_activity_catalogue_forum">Nutritionist</string>
+    <string name="title_activity_catalogue">Nutritionist</string>
+    <string name="title_activity_weight_edit">Nutritionist</string>
+    <string name="title_activity_user_details">UserDetails</string>
+    <string name="already_have_an_account">Don\'t  have an account?</string>
+    <string name="good_nutrition">
+        Most of us DO know what healthy eating is all about: less fried food, less sugar and more
+        vegetables and fruits. When it comes to having good nutrition however, too many of us
+        don’t know the full details of the benefits of good nutrition and how to go about achieving it.\n\n
+
+        Nutrition is an essential aspect of a healthy lifestyle and the importance of getting it right
+        cannot be overstated – let’s start by going into the benefits of having a nutritious diet.\n\n
+
+        How good nutrition boosts your health?\n\n
+
+        • Weight management\n\n
+        A lot of us mistakenly associate weight-loss with fad diets, but eating a nutritious diet is
+        really the best way to go about maintaining a healthy weight and at the same time attaining
+        the necessary nutrients for healthy body function. Swapping unhealthy junk food and snacks
+        out for nutritious food is the first step to keeping your weight within a healthy range relative
+        to your body composition, without the need to jump on the fad-diet bandwagon.\n\n
+
+        • Protecting you from chronic diseases\n\n
+        Many chronic diseases such as type-2 diabetes and heart disease are caused by poor nutrition
+        and obesity. With 1 in 9 Singaporeans suffering from diabetes, the emphasis on good nutrition
+        is higher than ever. Taking a preventive approach with a whole food-based nutrition plan also reduces
+        the risk of developing other related diseases such as kidney failure.\n\n
+
+        • Strengthening your immune system\n\n
+        Our immune system requires essential vitamins and minerals in order to function optimally.
+        Eating a wholesome and varied diet ensures your immune system functions at peak performance
+        and guards against illnesses and immunodeficiency problems.\n\n
+
+        • Delaying the onset of ageing\n\n
+        Certain types of food such as tomatoes and berries can increase vigour and improve cognitive
+        performance, all the while protecting your body against the effects of ageing.\n\n
+
+        • Supporting your mental well-being\n\n
+        Eating the right foods can actually make you happier – nutrients such as iron and omega-3 fatty
+        acids found in protein-rich food can boost your mood. This contributes to better overall mental
+        well-being and protects you against mental health issues.\n\n
+
+        So, how does one build a sensible nutrition plan then? Healthy eating is all about eating balanced
+        proportions of nutrient-rich foods from the various food groups, as well as adopting several healthy eating habits.\n\n
+
+        How to achieve good nutrition in your diet\n\n
+        Each food group provides different nutrients and benefits, so eating a balanced diet that includes foods from all
+        five groups is essential. These are the different food groups that you should keep in mind.\n\n
+
+        1. Whole grains\nn
+        Whole grain foods such as brown rice and bread are forms of carbohydrates, specifically unrefined carbohydrates.
+        They provide you with energy, healthy fibre, vitamins, minerals and antioxidants, and aid with digestion.
+        For people who are diagnosed coeliacs or those with non-coeliac gluten sensitivity, it\'s important that you include
+        other carbohydrate alternatives to ensure that your abstinence from wheat doesn\'t cost you in terms of essential nutrients.\n\n
+
+        “Gluten-free carbohydrate alternatives include rice products, buckwheat (technically a pseudocereal), quinoa and starchy vegetables
+        (e.g. sweet potato, yam, pumpkin, corn),” says Ang Sin Hwee, Associate Sport Dietitian at Singapore Sport Institute. “As following a
+        gluten-free diet may lead you to unknowingly cut out certain nutrients, it is recommended that you seek help from a registered dietitian.”\n\n
+
+        2. Fruits and vegetables\n\n
+        Various forms of produce are the rich sources of vitamins and minerals that help regulate body functions and protect it against chronic diseases.
+        To get the most nutrients out of your fruits and vegetables, eat them whole – for example, eat whole fruits instead of having them juiced.\n\n
+
+        3. Protein\n\n
+        Protein is the primary nutrient responsible for building and repairing muscle tissue in the body. Animal meat is the most common source of
+        protein, but there are also several plant-based options to choose from such as nuts and legumes. Individuals on plant-based diets should ensure
+        that eat the right combination of plant protein to ensure that their dietary needs are adequately met.\n\n
+
+        4. Dairy\n\n
+        Dairy products are rich in important nutrients like calcium, potassium, phosphorus, vitamins A,D and B12. Foods like milk, yogurt and cheese
+        are great examples of dairy which can be found in practically every grocer stores.\n\n
+
+        5. Fat and sugar\n\n
+        Dietary fat (such as the kind you get from fish and olive oil) is essential for good health as they regulate cholesterol levels in your body while
+        promoting healthy cell function. Monounsaturated, polyunsaturated and saturated fat all play a role in this aspect of good health. On the other
+        hand, the additional fat you often find in fried food should be minimised as they are largely polyunsaturated fat derived from processed vegetable
+        oils such as soybean and rapeseed.\n\n
+
+        Due to their low threshold for oxidisation, over consumption of polyunsaturated fat can lead to inflammatory conditions and the formation of free
+        radicals. Artificial trans fat are also a strict “no-no”. Sugar should also be limited – while the natural sugars present in fruits and whole grains are
+        healthy, the refined sort you get with cakes and snacks can affect your weight and lead to metabolic diseases if consumed in excess.\n\n
+
+        Apart from eating foods from the above-mentioned food groups, there are three other healthy eating habits to maintain in order to keep your
+        nutrition plan on point.\n\n
+
+        • Keep portion sizes regulated\n\n
+        Managing portion sizes is all about ensuring that you are getting the right amounts of nutrients and calories from your food. Over-eating or
+        under-eating deprives you of nutrients and can affect your weight, so always regulate your meal portions. When buying food, check out the
+        serving sizes on the nutrition labels to see what amounts to a regular serving and how much it provides in terms of nutrients.\n\n
+
+         • Prioritise fresh food\n\n
+        Fresh, whole foods are the ones you will derive maximum nutritional benefits from. Always go for foods in their purest, unprocessed form such
+        as fresh fruits, vegetables and meat when possible. If you go with processed alternatives, pick those that have undergone simple changes such
+        as dehydration and flash freezing to minimise nutrient-loss. Also, keep an eye on the ingredients list to ensure that you\'re consuming as little
+        additives with your food as possible.\n\n
+
+        • Practice healthier seasoning habits\n\n
+        Consider tempering your salt intake with other herbs and spices to add a new dimension of flavour to your food. For example, basil, garlic, paprika
+        and cayenne can turn an ordinary chicken breast dish into a gastronomical delight! Salt is the most common food seasoning used in cooking, but
+        too much sodium can lead to high blood pressure and hypertension, particularly with those who are already susceptible to said conditions.\n\n
+
+        Maintaining a nutritious eating plan is simple enough; evaluating whether it\'s nutritious enough can be straightforward as well. Just look out for
+        five simple enough indicators of whether you are getting enough from your food.\n\n
+
+        Indicators of a nutritious diet\n\n
+        1. Body composition\n\n
+        A well-structured nutrition plan should allow an individual to maintain a healthy physique within acceptable body fat levels (18-24% for men and 25-31%
+        for women). This also means that it should support metabolic health through a number of means, such as promoting healthy hormone function, insulin
+        sensitivity and physical recovery.\n\n
+
+        2. Healthy cholesterol levels and blood pressure\n\n
+        Monitoring your cholesterol levels and blood pressure is crucial because having a healthy weight doesn\'t discount the possibility of issues in these areas.
+        While dietary cholesterol doesn\'t have as much effect on blood cholesterol levels as we once thought, it can still be influenced by your overall dietary fat
+        intake. On the other end, excessive sodium intake can lead to hyper-extension, of which one of the symptoms happens to be elevated blood pressure levels.\n\n
+
+        3. Healthy skin and hair\n\n
+        The condition of your skin and hair are good indicators of the quality of your nutrition. If you are getting enough nutrients, your skin should be firm,
+        supple and of a rich hue rather than flaking and pale. Your hair should be smooth and strong rather than dry and brittle; unexplained hair loss is often
+        a sign of malnutrition.\n\n
+
+        4. Sleep and energy levels\n\n
+        Getting the right amount of nutrients and calories will help you stay energised due to its ability to promote restful sleep. If you find yourself feeling
+        sluggish, It could be a sign of either a distinct lack of calories and/or nutrients, driving your body into “starvation mode” which hampers its restorative capabilities.\n\n
+
+        5. Regular bowel movements\n\n
+        Your bowel movements reflect whether you are getting sufficient fibre from your diet, so if you find yourself being constipated, load up on more
+        fruits and vegetables to get your digestive system going.\n\n
+
+        While these five indicators of a nutritious diet may give your a decent idea on how to go about achieving your nutrition goals, there\'s no real need
+        to go about it by your lonesome. Getting the help of a certified nutritionist can help improve your odds of success while avoiding the common pitfalls.\n\n
+
+        Why you should consider seeing a nutritionist\n\n
+        • Advice and meal plans\n\n
+        When you\’re a busy working adult, planning your meals to meet your nutritional requirements can be too much work. A nutritionist can handle this
+        easily and probably plan a more nutritious meal than you can. You can also get advice on food and nutrition, instead of searching through possibly
+        unreliable sources on the internet and endlessly questioning their integrity.\n\n
+
+        • Adaptation\n\n
+        No battle plan survives first contact, and the same goes for nutrition plans. However, a well-trained nutritionist will know exactly how and where to
+        make adjustments to your eating plan in order to get you back on track. From recently-discovered food allergies to accidental bingeing, it\'s all par
+        for the course to a nutritionist.\n\n
+
+        • Help you stick to your goal\n\n
+        It can be hard to work through diet-related problems alone. Having a nutritionist means you have someone to work through your problems and relapses
+        with as well as someone to push you towards achieving your nutrition goals. Apart from diet-related advice, nutritionists can also offer emotional support
+        when you are struggling to maintain the diet.\n\n
+
+</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Profile</string>
+    <string name="title_notifications">Tips</string>
+    <string name="about">About App</string>
+    <string name="title_activity_top_bar">TopBar</string>
+    <string name="title_activity_diet_education">What is good nutrition?\n\n
+        Why is it important?</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">EUGENE J. BVAKA</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings NotificationsActivityions -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

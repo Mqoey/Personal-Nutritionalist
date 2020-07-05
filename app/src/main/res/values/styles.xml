@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="NoActionBar.PopupOverlay">styel</style>
+
+    <style name="NoActionBar.AppBarOverlay"></style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+</resources>

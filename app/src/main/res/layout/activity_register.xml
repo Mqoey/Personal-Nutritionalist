@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg"
+    tools:context=".login.RegisterActivity">
+
+    <customfonts.MyTextView_Roboto_Regular
+        android:id="@+id/textView19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:text="Registration Form"
+        android:fontFamily="sans-serif-medium"
+        android:letterSpacing="-0.01"
+        android:lineSpacingExtra="20sp"
+        android:textColor="#23203f"
+        android:textSize="25sp"
+        android:textStyle="normal"
+        android:textAlignment="center" />
+
+    <customfonts.MyTextView_Roboto_Regular
+        android:text="User Name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView19"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:fontFamily="sans-serif-light"
+        android:layout_marginTop="12dp"
+        android:id="@+id/tvUsername"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <customfonts.EditText_Roboto_Regular
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:fontFamily="sans-serif-light"
+        android:ems="10"
+        android:layout_below="@+id/tvUsername"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/etUserName"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:hint="Users Name" />
+
+    <customfonts.MyTextView_Roboto_Regular
+        android:text="Email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etUserName"
+        android:fontFamily="sans-serif-light"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/tvEmail"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="3dp"
+        android:layout_alignParentEnd="true" />
+
+    <customfonts.MyTextView_Roboto_Regular
+        android:text="Password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvPassword"
+        android:layout_below="@+id/etEmail"
+        android:layout_alignParentLeft="true"
+        android:fontFamily="sans-serif-light"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="3dp"
+        android:layout_alignRight="@+id/etPassword"
+        android:layout_alignEnd="@+id/etPassword" />
+
+    <customfonts.EditText_Roboto_Regular
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:fontFamily="sans-serif-light"
+        android:id="@+id/etPassword"
+        android:layout_below="@+id/tvPassword"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:hint="Enter Password" />
+
+    <customfonts.EditText_Roboto_Regular
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:fontFamily="sans-serif-light"
+        android:id="@+id/etPasswordConfirm"
+        android:layout_below="@+id/tvConfirm"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:hint="Confirm Password"
+        android:layout_toRightOf="@+id/tvPassword"
+        android:layout_toEndOf="@+id/tvPassword" />
+
+    <customfonts.MyTextView_Roboto_Regular
+        android:text="Confirm Password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvConfirm"
+        android:fontFamily="sans-serif-light"
+        android:layout_below="@+id/etEmail"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="3dp"
+        android:layout_alignLeft="@+id/etPasswordConfirm"
+        android:layout_alignStart="@+id/etPasswordConfirm" />
+
+    <customfonts.MyTextView_Roboto_Regular
+        android:text="Age"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etPasswordConfirm"
+        android:fontFamily="sans-serif-light"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/tvAge"
+        android:layout_marginTop="3dp"
+        android:layout_alignRight="@+id/etPassword"
+        android:layout_alignEnd="@+id/etPassword" />
+
+    <customfonts.EditText_Roboto_Regular
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:fontFamily="sans-serif-light"
+        android:ems="10"
+        android:id="@+id/etAge"
+        android:layout_below="@+id/tvAge"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/tvAge"
+        android:layout_alignEnd="@+id/tvAge"
+        android:hint="Enter Age" />
+
+    <TextView
+        android:text="Height"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:fontFamily="sans-serif-light"
+        android:layout_below="@+id/etAge"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/tvHeight"
+        android:layout_alignRight="@+id/etPassword"
+        android:layout_alignEnd="@+id/etPassword" />
+
+    <customfonts.EditText_Roboto_Regular
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:ems="10"
+        android:fontFamily="sans-serif-light"
+        android:id="@+id/etHeight"
+        android:layout_below="@+id/tvHeight"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/tvHeight"
+        android:layout_alignEnd="@+id/tvHeight"
+        android:hint="Height In cm" />
+
+
+    <customfonts.EditText_Roboto_Regular
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:ems="10"
+        android:fontFamily="sans-serif-light"
+        android:id="@+id/etWeight"
+        android:layout_below="@+id/tvWeight"
+        android:layout_alignLeft="@+id/tvWeight"
+        android:layout_alignStart="@+id/tvWeight"
+        android:hint="Weight in kg"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <customfonts.MyTextView_Roboto_Regular
+        android:text="Gender"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/etAge"
+        android:fontFamily="sans-serif-light"
+        android:layout_alignLeft="@+id/etPasswordConfirm"
+        android:layout_alignStart="@+id/etPasswordConfirm"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <customfonts.EditText_Roboto_Regular
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/etGender"
+        android:layout_alignBaseline="@+id/etAge"
+        android:layout_alignBottom="@+id/etAge"
+        android:layout_alignParentRight="true"
+        android:fontFamily="sans-serif-light"
+        android:layout_alignParentEnd="true"
+        android:hint="M or F"
+        android:layout_toRightOf="@+id/tvAge"
+        android:layout_toEndOf="@+id/tvAge" />
+
+    <customfonts.MyTextView_Roboto_Regular
+        android:id="@+id/btRegister"
+        android:background="@drawable/button_gradient"
+        android:layout_width="match_parent"
+        android:layout_height="53dp"
+        android:layout_alignParentBottom="true"
+        android:fontFamily="sans-serif-light"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="39dp"
+        android:gravity="center"
+        android:lineSpacingExtra="34sp"
+        android:textColor="#ffffff"
+        android:textSize="22sp"
+        android:text="Register" />
+
+    <customfonts.EditText_Roboto_Regular
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:clickable="true"
+        android:id="@+id/etEmail"
+        android:layout_below="@+id/tvEmail"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:inputType="textEmailAddress"
+        android:hint="Enter Email Address" />
+
+    <customfonts.MyTextView_Roboto_Regular
+        android:text="Weight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvWeight"
+        android:layout_alignBaseline="@+id/tvHeight"
+        android:layout_alignBottom="@+id/tvHeight"
+        android:layout_alignLeft="@+id/etGender"
+        android:layout_alignStart="@+id/etGender"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+
+</RelativeLayout>
